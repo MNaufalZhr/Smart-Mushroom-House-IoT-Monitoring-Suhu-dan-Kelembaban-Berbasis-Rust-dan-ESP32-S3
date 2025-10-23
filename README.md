@@ -15,9 +15,8 @@ Proyek Mushroom House dirancang untuk memenuhi kebutuhan tersebut dengan menggun
 
 **Internet of Things (IoT)** adalah konsep jaringan yang menghubungkan berbagai perangkat agar dapat saling berkomunikasi melalui internet untuk bertukar data antara dunia fisik dan digital.  
 IoT terdiri dari tiga komponen utama:
-- **Sensor / Aktuator** – mendeteksi dan mengubah besaran fisik menjadi data digital  
 - **Jaringan Komunikasi** – mengirimkan data ke server  
-- **Platform Aplikasi** – menampilkan hasil pengolahan data  
+- **Platform Aplikasi Thingsboards** – menampilkan hasil pengolahan data  
 
 Protokol umum yang digunakan adalah **MQTT** karena efisien dan mendukung komunikasi *asynchronous*.  
 Salah satu contoh penerapan IoT adalah **Mushroom House**, sistem rumah pintar yang mengintegrasikan sensor dan cloud untuk memantau serta mengendalikan perangkat secara efisien.
