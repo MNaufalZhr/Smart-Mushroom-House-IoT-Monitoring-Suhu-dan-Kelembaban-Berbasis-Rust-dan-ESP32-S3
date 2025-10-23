@@ -5,7 +5,8 @@ Dalam budidaya jamur, suhu dan kelembaban merupakan faktor utama yang menentukan
 Proyek Mushroom House dirancang untuk memenuhi kebutuhan tersebut dengan menggunakan mikrokontroler ESP32-S3, sensor DHT22, dan bahasa pemrograman Rust yang unggul dalam keamanan memori dan efisiensi tinggi. Sistem ini juga dilengkapi fitur Over-The-Air (OTA) untuk pembaruan firmware jarak jauh melalui internet, serta menggunakan protokol MQTT dan platform ThingsBoard sebagai media komunikasi dan visualisasi data. Kombinasi teknologi tersebut menghasilkan solusi IoT yang efisien, andal, dan mudah dikembangkan untuk pemantauan lingkungan kumbung jamur.
 # NAMA KELOMPOK 16 :
 1. Muhammad Naufal Zuhair (2042231005)
-2. Ahmad Radhy, S.Si., M.Si (Supervisor)
+2. Kania Nayaka Utamaysarah (20422310033) 
+3. Ahmad Radhy, S.Si., M.Si (Supervisor)
 # Pengertian Setiap Tools
 
 ---
